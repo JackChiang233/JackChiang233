@@ -1,16 +1,14 @@
-## Hi there 👋
+## Tech Stack
+![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,less,tailwind,nodejs,express,react,vue,pinia,vite,webpack,npm,pnpm,yarn,postman)
 
-<!--
-**JackChiang233/JackChiang233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Open Source Contributions
 
-Here are some ideas to get you started:
+| Project PR | Tech Stack | Stars | Forks | |
+|---------|------------|-------|-------|-|
+| [langbot-app/LangBot](https://github.com/langbot-app/LangBot/pull/2155) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![](https://img.shields.io/github/stars/langbot-app/LangBot?style=flat-square) | ![](https://img.shields.io/github/forks/langbot-app/LangBot?style=flat-square) | <img width="20" height="20" src="https://github.com/user-attachments/assets/8b384567-a1d4-4465-b635-6d6cefaf1873" />  @ Qiniu Limited |
+| [JackChen-me/open-multi-agent](https://github.com/JackChen-me/open-multi-agent/pull/154) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![](https://img.shields.io/github/stars/JackChen-me/open-multi-agent?style=flat-square) | ![](https://img.shields.io/github/forks/JackChen-me/open-multi-agent?style=flat-square) | <img width="20" height="20" src="https://github.com/user-attachments/assets/8b384567-a1d4-4465-b635-6d6cefaf1873" />  @ Qiniu Limited |
+| [looplj/axonhub](https://github.com/looplj/axonhub/pull/1612) | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) | ![](https://img.shields.io/github/stars/looplj/axonhub?style=flat-square) | ![](https://img.shields.io/github/forks/looplj/axonhub?style=flat-square) | <img width="20" height="20" src="https://github.com/user-attachments/assets/8b384567-a1d4-4465-b635-6d6cefaf1873" />  @ Qiniu Limited |
+| [mozilla-ai/any-llm](https://github.com/mozilla-ai/any-llm/pull/1058) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![](https://img.shields.io/github/stars/mozilla-ai/any-llm?style=flat-square) | ![](https://img.shields.io/github/forks/mozilla-ai/any-llm?style=flat-square) |<img width="20" height="20" src="https://github.com/user-attachments/assets/8b384567-a1d4-4465-b635-6d6cefaf1873" />  @ Qiniu Limited |
+| [skalesapp/skales](https://github.com/skalesapp/skales/pull/99) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![](https://img.shields.io/github/stars/skalesapp/skales?style=flat-square) | ![](https://img.shields.io/github/forks/skalesapp/skales?style=flat-square) | <img width="20" height="20" src="https://github.com/user-attachments/assets/8b384567-a1d4-4465-b635-6d6cefaf1873" />  @ Qiniu Limited |
+| [agentscope-ai/OpenJudge](https://github.com/agentscope-ai/OpenJudge/pull/172) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![](https://img.shields.io/github/stars/agentscope-ai/OpenJudge?style=flat-square) | ![](https://img.shields.io/github/forks/agentscope-ai/OpenJudge?style=flat-square) | <img width="20" height="20" src="https://github.com/user-attachments/assets/8b384567-a1d4-4465-b635-6d6cefaf1873" />  @ Qiniu Limited |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
