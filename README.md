@@ -1,7 +1,21 @@
-## Tech Stack
+<div align="center">
+  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Jack%20Chiang&fontSize=52&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Frontend%20Engineer%20×%20AI%20Explorer&descAlignY=55"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,50:243B55,100:0F2027&height=90&section=header&text=%20Tech%20Stack&fontSize=34&fontColor=00F7FF&animation=fadeIn"/>
+</p>
+
+
 ![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,less,tailwind,nodejs,express,react,vue,pinia,vite,webpack,npm,pnpm,yarn,postman)
 
-## Open Source Contributions
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000428,50:004e92,100:000428&height=90&section=header&text=%20Open%20Source%20Contributions&fontSize=34&fontColor=7DF9FF&animation=twinkling"/>
+</p>
+
 
 | Project PR | Tech Stack | Stars | Forks | License | |
 |---------|------------|-------|-------|-------|---|
