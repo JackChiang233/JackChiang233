@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Jack%20Chiang&fontSize=52&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Frontend%20Engineer%20×%20AI%20Explorer&descAlignY=55"/>
 </p>
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,less,tailwind,nodejs,express,react,vue,pinia,vite,webpack,npm,pnpm,yarn,postman)
+![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,less,tailwind,nodejs,express,vue,pinia,vite,webpack,npm,pnpm,yarn,postman,supabase,react,nextjs,nestjs,babel,git,github)
 
 
 <p align="center">
